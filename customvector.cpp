@@ -1,3 +1,4 @@
+./configure
 #include iostream
 
 using namespace std
